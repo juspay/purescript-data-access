@@ -13,7 +13,8 @@
     "purescript-arrays": "^5.1.0",
     "purescript-maybe": "^4.0.0",
     "purescript-redis-client": "https://github.com/paluh/purescript-redis-client.git#756cd65563122a61c1f392051240621522e4b362",
-    "purescript-scylladb-client": "git@bitbucket.org:juspay/purescript-scylladb-client.git#a01909a"
+    "purescript-scylladb-client": "git@bitbucket.org:juspay/purescript-scylladb-client.git#a01909a",
+    "purescript-argonaut-codecs": "^4.0.2"
   },
   "devDependencies": {
     "purescript-psci-support": "^4.0.0"
